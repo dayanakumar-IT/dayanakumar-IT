@@ -3,14 +3,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="400">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">Passionate Full Stack Developer | Innovator at Heart | Crafting Solutions with Code</h3>
+<h3 align="center">Undergraduate in Data Science | AI & ML Enthusiast | Passionate About Data Analysis and Intelligent Solutions</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dayanakumar-it&label=Profile%20views&color=0e75b6&style=flat" alt="dayanakumar-it"/> </p>
 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Construction%20Worker%20Light%20Skin%20Tone.png" alt="Construction Worker Light Skin Tone" width="25" height="25" /> I’m currently working on **Construction Management App**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Construction%20Worker%20Light%20Skin%20Tone.png" alt="Construction Worker Light Skin Tone" width="25" height="25" /> I’m currently working on **Data Analysis Project.**
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Climbing%20Light%20Skin%20Tone.png" alt="Woman Climbing Light Skin Tone" width="25" height="25" /> I’m currently learning **MERN Stack**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Climbing%20Light%20Skin%20Tone.png" alt="Woman Climbing Light Skin Tone" width="25" height="25" /> I’m currently learning **AI and Machine Learning**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Light%20Skin%20Tone.png" alt="Backhand Index Pointing Right Light Skin Tone" width="25" height="25" /> How to reach me **dayanapriya.k@gmail.com**
 
