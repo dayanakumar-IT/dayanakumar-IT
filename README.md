@@ -8,7 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dayanakumar-it&label=Profile%20views&color=0e75b6&style=flat" alt="dayanakumar-it"/> </p>
 
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Construction%20Worker%20Light%20Skin%20Tone.png" alt="Construction Worker Light Skin Tone" width="25" height="25" /> I’m currently working on **Data Analysis Project.**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Construction%20Worker%20Light%20Skin%20Tone.png" alt="Construction Worker Light Skin Tone" width="25" height="25" /> I’m currently working on **Smart Research Assistant Project**
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Woman%20Climbing%20Light%20Skin%20Tone.png" alt="Woman Climbing Light Skin Tone" width="25" height="25" /> I’m currently learning **AI and Machine Learning**
 
